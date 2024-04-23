@@ -38,3 +38,7 @@ Tools untuk mempercepat pembuatan LKT khusus project web
 
 - Selesai
 
+## Detail video tutorial
+
+[https://youtu.be/uy7ALBrlyXI](https://youtu.be/uy7ALBrlyXI)
+
