@@ -1,0 +1,59 @@
+body {
+    filter: grayscale(100%);
+}
+* {
+    box-shadow: none !important;
+    background-color: none !important;
+    color: #000 !important;
+    border-radius: 0!important;
+    border-color: #000 !important;
+}
+.text-white {
+    color: #000 !important;
+}
+a {
+    box-shadow: none !important;
+    background: none !important;
+    color: #000 !important;
+    border-radius: 0!important;
+}
+header,section, footer, button, .btn, button {
+    border: 1px solid #000 !important;
+    background: none !important;
+    box-shadow: none !important;
+    color: #000 !important;
+}
+i.bi, i.fi {
+    /* display: none!important; */
+}
+footer {
+    border: 1px solid #000 !important;
+    background-color: none!important;
+}
+.sidenav, .nav-pills>.nav-item>.nav-link {
+    border: 1px solid #000 !important;
+    background: none !important;
+    box-shadow: none !important;
+}
+[class*='bg-'] {
+    color: #000!important;
+    background: none !important;
+}
+[class*='shadow-'], .shadow {
+    box-shadow: none !important;
+}
+.d-inline-block {
+    background: none !important;
+    border: 1px solid #000 !important;
+}
+.nav-item {
+    margin: 5px 0;
+}
+img {
+    content:url("https://www.mockuptiger.com/wp-content/uploads/2018/03/image-666.jpg") !important;
+    margin: auto;
+}
+
+.navbar-toggler-icon {
+    background-image: var(--bs-navbar-toggler-icon-bg);
+}
